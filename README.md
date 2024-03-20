@@ -24,4 +24,4 @@ I used Bar plot, Box plot, and Heat map for visualization.
 
 Conclusion: 
 Based on my findings 'Credit_History' and 'Balance Income' features are most important. So, feature engineering helped me in predicting my target variable.
-![image](https://github.com/radhikahendre99/Capstone/assets/144067970/1e94d970-3545-4441-9f7e-8b846c52f45e)
+
